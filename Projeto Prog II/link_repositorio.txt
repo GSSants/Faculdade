@@ -1,0 +1,8 @@
+Repositorio Publico - Trabalho Final de Programacao II
+Aluno: Gabriel Soares Santos
+
+Link do repositorio (raiz):
+https://github.com/GSSants/Faculdade
+
+Link direto para a pasta do projeto:
+https://github.com/GSSants/Faculdade/tree/main/Projeto%20Prog%20II
