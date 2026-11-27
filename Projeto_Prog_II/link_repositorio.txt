@@ -2,4 +2,4 @@ Link do repositorio (raiz):
 https://github.com/GSSants/Faculdade
 
 Link direto para a pasta do projeto:
-https://github.com/GSSants/Faculdade/tree/main/Projeto%20Prog%20II
+https://github.com/GSSants/Faculdade/blob/main/Projeto_Prog_II
